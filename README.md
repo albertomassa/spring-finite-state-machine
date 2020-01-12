@@ -20,8 +20,8 @@ mvn spring-boot:run
 ### Test
 
 ```
+mvn test
 ```
-
 
 ## Versioning
 
